@@ -43,7 +43,7 @@ This is a simple web application that allows users to create a to-do list on a w
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-list-website.git
+   git clone https://github.com/jokasta29/todolist.git
    
    1. Open index.html in your preferred web browser.
 
