@@ -1,6 +1,6 @@
 # To-Do List Website
 
-![Website Screenshot](screenshot.png)
+![Website Screenshot](screenshots/screenshot.png)
 
 This is a simple web application that allows users to create a to-do list on a website. Users can add new tasks, mark tasks as done, and delete tasks from the list.
 
