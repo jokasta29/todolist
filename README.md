@@ -30,7 +30,7 @@ This is a simple web application that allows users to create a to-do list on a w
 
 ## Demo
 
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://jokasta29.github.io/todolist/)
 
 ## Getting Started
 
